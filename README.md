@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hey, I’m Nishanth Easow Shaji
+   🛡️ Cybersecurity Learner | 🔍 Red/Blue Team Fundamentals | 🐧 Linux + Networking
 
-<!--
-**CYBER-N-E-S/CYBER-N-E-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I’m a BSc Computer Science + MCA graduate from Kerala with a growing passion for cybersecurity, Computer Networking, and secure systems engineering. Currently sharpening my knowledge in both offensive and defensive security, along with solid networking and real-world cybersecurity practices.
 
-Here are some ideas to get you started:
+What I Do :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔍 Cybersecurity Research — network security, packet sniffing, OSINT
+
+  🎯 Ethical Hacking Practice — labs, CTFs, and security challenges
+
+  🐍 Python Development — automation, ML experiments, security tooling
+
+  🐧 Linux SysOps — comfortable across major distros
+
+  🌐 Content Creator (Cybersecurity) — making simple visuals for complex topics
