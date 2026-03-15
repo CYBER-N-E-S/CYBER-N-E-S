@@ -15,7 +15,7 @@ What I Do :
 
   🌐 Content Creator (Cybersecurity) — making simple visuals for complex topics
 
-Instagram : https://www.instagram.com/n3sh4ck_cyb3r/
+
 
 
 ## 🌐 Socials:
